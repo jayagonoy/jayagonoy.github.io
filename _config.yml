@@ -1,29 +1,26 @@
-# Site-wide settings - https://github.com/jekyll/minima/blob/master/_config.yml
-# ------------------
+remote_theme: niklasbuschmann/contrast@v2.11
+plugins:
+  - jekyll-remote-theme
 
-title: Jay Agonoy
-
-author:
-  name: Jay Agonoy
-  email: hello@jayagonoy.com
-
+title: "Jay Agonoy"
+author: "Jay Agonoy"
 description: "...and his thoughts on Pop Culture and Life, narrated in pieces"
+permalink: /:title/
+lang: "en"
+excerpt_separator: "\n\n\n"
+date_format: "%B %d, %Y"
 
-# Build settings
-# --------------
+# Layout
 
-remote_theme: jekyll/minima@d4d779a
+show_excerpts: true        # show article excerpts on the home page
+show_frame: true           # adds a gray frame to the site
+show_sidebar: false        # show a sidebar instead of the usual header
 
-Minima requires the following plugins:
+# Menu
+
+navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {file: "index.html"}
+  - {file: "about.md"}
+
 plugins:
  - jekyll-feed
- - jekyll-seo-tag
-
- minima:
-   skin: dark
-   nav_pages:
-     - about.md
-     - links.md
-   show_excerpts: false
-   date_format: "%b-%d-%Y"
-   hide_site_feed_link: false
