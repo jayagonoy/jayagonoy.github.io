@@ -1,6 +1,7 @@
 ---
-title: "Jay Agonoy"
+title: "Links"
 date: 2021-07-19
+description: "Here's where you can (mostly) find Jay online"
 permalink: /links/
 ---
 
