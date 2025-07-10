@@ -1,5 +1,5 @@
 ---
-title: "Jay Agonoy"
+title: "Jay Who?"
 date: 2019-09-18
 description: "Pop culture enthusiast who's made his digital footprints as early as 2016"
 permalink: /about/
