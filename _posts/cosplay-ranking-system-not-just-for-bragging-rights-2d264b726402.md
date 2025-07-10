@@ -1,10 +1,7 @@
 ---
 title: "Cosplay Ranking System: Not just for bragging rights?"
 date: 2013-02-10
-categories: 
-  - "deremoe"
-  - "opinion"
-permalink: /cosplay-ranking-system-not-just-for-bragging-rights-2d264b726402
+categories: deremoe
 ---
 
 ![](images/2013/0_J_m2FdJlrpjpbpvq.png)

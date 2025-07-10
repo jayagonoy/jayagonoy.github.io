@@ -2,7 +2,6 @@
 title: "Bow Ditama in the Philippines 2013"
 date: 2013-10-11
 categories: deremoe
-permalink: /bow-ditama-philippines-2013/
 layout: post
 ---
 
