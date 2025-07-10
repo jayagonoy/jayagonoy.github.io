@@ -4,7 +4,7 @@ date: 2013-10-11
 categories: 
   - "deremoe"
   - "features"
-permalink: "bow-ditama-philippines-2013"
+permalink: /bow-ditama-philippines-2013/
 ---
 
 _**Note (September 21, 2021):** This feature is originally published on [Deremoe](/deremoe) in October 2013. In commemoration of the ending of KissxSis manga, I've updated this story heavily, but I make sure the context is somehow the same. Enjoy reading!_
