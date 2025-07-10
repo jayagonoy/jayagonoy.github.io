@@ -4,10 +4,10 @@ date: 2013-10-23
 categories: 
   - "deremoe"
   - "features"
-permalink: "we-asked-you-do-you-want-seiyuu-meet-and-greets-in-the-philippines-1c7f04d5ba05"
+permalink: /we-asked-you-do-you-want-seiyuu-meet-and-greets-in-the-philippines-1c7f04d5ba05
 ---
 
-![](images/0_qUQiLKDHBFIBIOHN.jpg)
+![](images/2013/0_qUQiLKDHBFIBIOHN.jpg)
 
 We are continuing our set of what is now the “We Asked You” segment on the site with this one that was held at **Oh-no! Manga Octo-Con 2**.
 
@@ -30,7 +30,7 @@ Most of the respondents are Cosplayers (9 respondents, 53%) and the rest are 47%
 - _Q3. Where do you get the latest news about them?_ Most of them (11 respondents) said **they get it online** (Google, Facebook, Sankaku Complex, Anime News Network), while the rest get it from either friends or magazines (like Otakuzine). Two of them said they get it from other people, and two of them answered none.
 - _Q4. Are you interested in having them here in the country?_ **All of the respondents said Yes**, with answers ranging from “80% interested”, “of course” and one even said “Hell Yeah”.
 
-![](images/0_U5m_Cg6v0nQrot6x.png)
+![](images/20130_U5m_Cg6v0nQrot6x.png)
 
 I’m also surprised that Aya Hirano is the voice actress most respondents remember the most, followed by Rie Kugimiya, Daisuke Ono and Nana Mizuki.
 

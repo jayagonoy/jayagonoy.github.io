@@ -4,10 +4,10 @@ date: 2013-01-13
 categories: 
   - "deremoe"
   - "features"
-permalink: "experiment-anti-harrassment-policies-at-anime-conventions-7fb22fbc27e6"
+permalink: /experiment-anti-harrassment-policies-at-anime-conventions-7fb22fbc27e6
 ---
 
-![](images/0_7rb9tOd88Jk9x92o.png)
+![](images/2013/0_7rb9tOd88Jk9x92o.png)
 
 Good day, fellow earthlings. It is inevitable that at every convention in your neck of the woods, you might see a person harrassing someone without the victim knowing it. These mostly consists of pervographers pointing their lens on some girl’s butt or chest, perverts holding such parts without the victim’s consent, etc.
 

@@ -3,10 +3,10 @@ title: "KanColle: World War II went the moe route and this happened"
 date: 2013-11-10
 categories: 
   - "deremoe"
-permalink: "kancolle-world-war-ii-went-the-moe-route-and-this-happened-87db1323b11"
+permalink: /kancolle-world-war-ii-went-the-moe-route-and-this-happened-87db1323b11
 ---
 
-![](images/0_Vxo89mElq-JX1sIP.jpg)
+![](images/2013/0_Vxo89mElq-JX1sIP.jpg)
 
 This is yet another trend that I’m looking each time I check out one of my friends’ tweets — **Kantai Collection**, shortened to KanColle. At first, it looks like _Girls und Panzer_ to me, with the girls as the Panzers; but then I found out there’s more to that.
 

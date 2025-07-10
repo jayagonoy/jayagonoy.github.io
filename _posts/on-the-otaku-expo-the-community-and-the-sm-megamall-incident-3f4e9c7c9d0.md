@@ -4,7 +4,7 @@ date: 2013-01-27
 categories: 
   - "deremoe"
   - "opinion"
-permalink: "on-the-otaku-expo-the-community-and-the-sm-megamall-incident-3f4e9c7c9d0"
+permalink: /on-the-otaku-expo-the-community-and-the-sm-megamall-incident-3f4e9c7c9d0
 ---
 
 _(Originally published at Deremoe on January 28, 2013.)_

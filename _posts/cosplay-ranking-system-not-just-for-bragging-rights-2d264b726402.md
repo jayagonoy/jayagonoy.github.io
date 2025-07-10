@@ -4,10 +4,10 @@ date: 2013-02-10
 categories: 
   - "deremoe"
   - "opinion"
-permalink: "cosplay-ranking-system-not-just-for-bragging-rights-2d264b726402"
+permalink: /cosplay-ranking-system-not-just-for-bragging-rights-2d264b726402
 ---
 
-![](images/0_J_m2FdJlrpjpbpvq.png)
+![](images/2013/0_J_m2FdJlrpjpbpvq.png)
 
 Days ago, Cosplay.ph [announced the creation of their Cosplay Ranking System](https://web.archive.org/web/20170202170044/http://cosplay.ph/2013/02/cosplay-ranking-system-crs/), in which the participants in Cosplay.ph-organized masquerades will be ranked according to their skill and experience.
 

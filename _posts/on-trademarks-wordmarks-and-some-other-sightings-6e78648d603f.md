@@ -4,10 +4,10 @@ date: 2013-12-05
 categories: 
   - "deremoe"
   - "opinion"
-permalink: "on-trademarks-wordmarks-and-some-other-sightings-6e78648d603f"
+permalink: /on-trademarks-wordmarks-and-some-other-sightings-6e78648d603f
 ---
 
-![](images/0_ooDGacvYXFjLePQh.png)
+![](images/2013/0_ooDGacvYXFjLePQh.png)
 
 Today, we’re going to discuss Trademarks and / or Wordmarks. I went to the Philippine Intellectual Property Rights Office (IPOPhl) website to search for trademarks or wordmarks that include the terms “**anime**“, “**otaku**“, and yes, “**cosplay**“.
 
@@ -27,7 +27,7 @@ Ozine, our partner _Anime Alliance_, _Anime Overload Festival_ (which is the 
 
 ## Cosplay
 
-![](images/0_ru5IfyH_yz0erArO.png)
+![](images/2013/0_ru5IfyH_yz0erArO.png)
 
 Save Cosplay.ph for the Cosplay wordmarks — we’ve seen that before — what we should look up now is that **Hero Face-Off: The Ultimate Cosplay Battle** now has a record in the IPO. Looking at the document registered, it says there the following:
 
@@ -38,7 +38,7 @@ I wonder what that means. We need assistance from the patent attorneys.
 
 ## Otaku
 
-![](images/0_6zBw-dqt7-z4HLjx.png)
+![](images/2013/0_6zBw-dqt7-z4HLjx.png)
 
 Nothing to see here though — both of them are Ozine, which we have introduced to you before.
 

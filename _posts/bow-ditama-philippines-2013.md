@@ -4,12 +4,12 @@ date: 2013-10-11
 categories: 
   - "deremoe"
   - "features"
-permalink: "bow-ditama-philippines-2013"
+permalink: /bow-ditama-philippines-2013
 ---
 
 _**Note (September 21, 2021):** This feature is originally published on [Deremoe](/deremoe) in October 2013. In commemoration of the ending of KissxSis manga, I've updated this story heavily, but I make sure the context is somehow the same. Enjoy reading!_
 
-![Bow Ditama in the Philippines: Entrance](images/0_6Jb3_J4TseEDqU6H.jpg)
+![Bow Ditama in the Philippines: Entrance](images/2013/0_6Jb3_J4TseEDqU6H.jpg)
 
 We are fortunate to have a mangaka to reach our shores. The **Japan Artist Talks** presented by UART Comic Creators Lab in partnership with Great Toys Online at Cosplay Mania 2013, features manga artist Bow Ditama, the mind behind [_Mahoromatic_](http://en.wikipedia.org/wiki/Mahoromatic), [_Kiss x Sis_](http://en.wikipedia.org/wiki/Kiss_x_Sis) and [_Fight Ippatsu! Juuden -chan!!_](http://en.wikipedia.org/wiki/Fight_Ippatsu!_J%C5%ABden-chan!!).
 
@@ -39,7 +39,7 @@ He revealed that _Kiss x Sis_ was supposed to be a one-shot manga at first. He
 
 In case of **Juden-chan** and **Mahoromatic**, does he visualize characters that can be Cosplayed? Bow Ditama-sensei said yes — and just to let you know, we’ve had a Cosplayer donning Juden-chan joining the audience.
 
-![Bow Ditama in the Philippines: A Juden-chan cosplayer joins the queue.](images/0_FL_CcLjxOeqLtXor.jpg)
+![Bow Ditama in the Philippines: A Juden-chan cosplayer joins the queue.](images/2013/0_FL_CcLjxOeqLtXor.jpg)
 
 So, what was his technique as a pro manga artist? He starts practice by creating a character and drawing it. He pointed out his most important thing as a professional manga artist — “we need to make moves to reach our dreams,” he said.
 

@@ -3,12 +3,12 @@ title: "John Vincent Estapon, one of the first delegates of the Philippines to t
 date: 2013-12-02
 categories: 
   - "deremoe"
-permalink: "we-take-a-look-at-john-vincent-estapon-who-is-among-the-first-delegates-of-the-philippines-to-the-617747c465f6"
+permalink: /we-take-a-look-at-john-vincent-estapon-who-is-among-the-first-delegates-of-the-philippines-to-the-617747c465f6
 ---
 
 <figure>
 
-![](images/0_0yYvjjh9yWVH2s_e.jpg)
+![](images/2013/0_0yYvjjh9yWVH2s_e.jpg)
 
 <figcaption>
 
@@ -60,7 +60,7 @@ _Mr. A_: Oh. Sorry about that.
 
 <figure>
 
-![](images/0_WoUqiXJGPRgWC5cN.jpg)
+![](images/2013/0_WoUqiXJGPRgWC5cN.jpg)
 
 <figcaption>
 
@@ -119,7 +119,7 @@ _Mr. A_: Ah. Do they finance all your costumes?
 _Mr. A_: Oh. Yung costume mo sa Face-Off is that the most expensive you had made, yet? Or the most detailed?  
 **Vincent**: maybe the most detailed.. hehe regarding sa expense nito parang mas mahal pa yung blue ko _(below)_ because of the lights.
 
-![](images/0_IihvWOlBFtGi6YVy.jpg)
+![](images/2013/0_IihvWOlBFtGi6YVy.jpg)
 
 #### Does he have assistance in making costumes?
 
@@ -143,7 +143,7 @@ _Mr. A_: Very supportive group it seems. You learned from them? I would guess a 
 
 <figure>
 
-![](images/0_9YoVLBsg7nJ8pOjg.jpg)
+![](images/2013/0_9YoVLBsg7nJ8pOjg.jpg)
 
 <figcaption>
 

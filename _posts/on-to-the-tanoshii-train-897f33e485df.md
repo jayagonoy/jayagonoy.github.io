@@ -4,10 +4,10 @@ date: 2013-12-12
 categories: 
   - "deremoe"
   - "opinion"
-permalink: "on-to-the-tanoshii-train-897f33e485df"
+permalink: /on-to-the-tanoshii-train-897f33e485df
 ---
 
-![](images/0_yfijYr3yZOAEJg1n.png)
+![](images/2013/0_yfijYr3yZOAEJg1n.png)
 
 I’ve just finished watching the latest episode of **Sekatsuyo** (aka “\[I\] _Wanna be the Strongest in the World!_“), and I’ve no regrets in dropping this show, even if my colleagues on the Shota and the Raging Teenage Hormones Departments disagree with me. It’s not just a wrestling anime, and I’m not into fanservice as well — what I’ve got interested in watching this series is the plot.
 
