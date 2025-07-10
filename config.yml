@@ -59,3 +59,7 @@ outputs:
     
 permalinks:
   posts: "/:title"
+  
+caches:
+  images:
+    dir: :cacheDir/images
