@@ -1,0 +1,61 @@
+baseURL: ""
+languageCode: en-us
+title: "Jay Agonoy"
+theme: PaperMod
+
+params:
+  homeInfoParams:
+    Title: "Hello There!"
+    Content: "I'm Jay, and I've been online since 2012. I'm currently the Editor for VTuberNewsDrop.com, and have written for several websites in the past. Welcome to my website, where you can find the stuff that I've shared over the years."
+  socialIcons:
+    - name: facebook
+      url: 'https://www.facebook.com/jayagonoycom'
+    - name: twitter
+      url: 'https://www.twitter.com/jayagonoy'
+    - name: youtube
+      url: 'https://www.youtube.com/@jayagonoy'
+    - name: linkedin
+      url: 'https://www.linkedin.com/in/jayagonoy'
+  cover:
+    linkFullImages: true
+  ShowBreadCrumbs: true
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  defaultTheme: dark
+  disableThemeToggle: true
+  ShowToc: true
+  TocOpen: true
+
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 10
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 30
+    
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+    parser:
+      attribute:
+        block: true
+      wrapStandAloneImageWithinParagraph: true
+      
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+    
+permalinks:
+  posts: "/:title"
