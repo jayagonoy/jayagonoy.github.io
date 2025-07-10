@@ -1,7 +1,7 @@
 ---
 title: "Jay Agonoy"
 date: 2021-07-19
-layout: page
+permalink: /
 ---
 
 - [Jay on VTuber NewsDrop](https://www.vtubernewsdrop.com/author/jay/) - Where I spend most of my time writing VTuber News
