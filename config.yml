@@ -1,4 +1,4 @@
-baseURL: "https://jayagonoy.github.io"
+baseURL: ""
 languageCode: en-us
 title: "Jay Agonoy"
 theme: PaperMod
@@ -26,6 +26,12 @@ params:
   disableThemeToggle: true
   ShowToc: true
   TocOpen: true
+  assets:
+    favicon: "static/favicon.ico"
+    favicon16x16: "static/favicon-16x16.png"
+    favicon32x32: "static/favicon-32x32.png"
+    apple_touch_icon: "static/apple_touch_icon.png"
+    safari_pinned_tab: "static/safari_pinned_tab.svg"
 
 menu:
   main:
@@ -58,7 +64,7 @@ outputs:
     - JSON
     
 permalinks:
-  posts: "/:title"
+  posts: "/:slug"
   
 caches:
   images:
