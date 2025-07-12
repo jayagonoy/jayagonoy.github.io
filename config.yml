@@ -1,5 +1,5 @@
 baseURL: ""
-languageCode: en-us
+languageCode: en-US
 title: "Jay Agonoy"
 theme: PaperMod
 
@@ -27,11 +27,11 @@ params:
   ShowToc: true
   TocOpen: true
   assets:
-    favicon: "static/favicon.ico"
-    favicon16x16: "static/favicon-16x16.png"
-    favicon32x32: "static/favicon-32x32.png"
-    apple_touch_icon: "static/apple_touch_icon.png"
-    safari_pinned_tab: "static/safari_pinned_tab.svg"
+    favicon: "site/favicon.ico"
+    favicon16x16: "site/favicon-16x16.png"
+    favicon32x32: "site/favicon-32x32.png"
+    apple_touch_icon: "site/apple_touch_icon.png"
+    safari_pinned_tab: "site/safari_pinned_tab.svg"
 
 menu:
   main:
