@@ -10,8 +10,8 @@ params:
   socialIcons:
     - name: facebook
       url: 'https://www.facebook.com/jayagonoycom'
-    - name: twitter
-      url: 'https://www.twitter.com/jayagonoy'
+    - name: x
+      url: 'https://www.x.com/jayagonoy'
     - name: youtube
       url: 'https://www.youtube.com/@jayagonoy'
     - name: linkedin
@@ -32,13 +32,23 @@ params:
     favicon32x32: "site/favicon-32x32.png"
     apple_touch_icon: "site/apple_touch_icon.png"
     safari_pinned_tab: "site/safari_pinned_tab.svg"
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    # limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
+    keys: ["title", "permalink", "summary", "content"]
+  ShareButtons: ["linkedin", "x", "telegram"]
 
 menu:
   main:
     - identifier: categories
       name: Categories
       url: /categories/
-      weight: 10
+      weight: 20
     - identifier: about
       name: About
       url: /about
@@ -46,11 +56,16 @@ menu:
     - identifier: tags
       name: Tags
       url: /tags/
-      weight: 10
+      weight: 30
+    - identifier: search
+      name: Search
+      icon: search
+      url: /search/
+      weight: 50
     - identifier: archives
       name: Archives
       url: /archives/
-      weight: 30
+      weight: 40
     
 markup:
   goldmark:
@@ -70,6 +85,9 @@ outputs:
 permalinks:
   posts: "/:slug"
   
+copyright: "&copy; Jay Agonoy. [Terms](/privacy) &bull; [Privacy](/privacy)"
+  
 caches:
   images:
     dir: :cacheDir/images
+    

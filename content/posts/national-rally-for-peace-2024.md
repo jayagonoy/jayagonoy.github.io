@@ -35,7 +35,6 @@ Coincidentally, January 13 is also the date of the first Stop and Salute Flag Ce
 {{< figure
   src="/images/2025/NRFP_JA_0001.jpg"
   alt=""
-  caption=""
   class="ma0 w-100"
   align=center
 >}}
@@ -47,7 +46,6 @@ The National Rally and the Flag Ceremony are separate events, and it was made ob
 {{< figure
   src="/images/2025/NRFP_JA_0002.jpg"
   alt=""
-  caption=""
   class="ma0 w-100"
   align=center
 >}}
@@ -59,7 +57,6 @@ Rizal Park was opened to the public following the flag-raising ceremony, with mo
 {{< figure
   src="/images/2025/NRFP_JA_0007.jpg"
   alt=""
-  caption=""
   class="ma0 w-100"
   align=center
 >}}
@@ -75,7 +72,6 @@ The man, keenly interested in discussing politics, have shared his experiences w
 {{< figure
   src="/images/2025/NRFP_JA_0005.jpg"
   alt=""
-  caption=""
   class="ma0 w-100"
   align=center
 >}}
