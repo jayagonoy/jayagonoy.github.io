@@ -1,7 +1,7 @@
 ---
 title: "How Naruto contributed to what streaming is today"
 date: 2014-11-10T16:00:00.000Z
-categories: [Opionion]
+categories: [Opinion]
 tags: [Deremoe]
 slug: /on-naruto-and-how-it-contributed-to-what-streaming-is-today-776bc7407e90
 ---
