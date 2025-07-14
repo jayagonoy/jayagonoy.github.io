@@ -1,7 +1,8 @@
 ---
 title: "If WinRAR can’t recover it, nothing can"
 date: 2015-11-20
-categories: [Technology]
+categories: [Short Thoughts]
+tags: [Technology]
 slug: /if-winrar-can-t-recover-it-nothing-can-9f1bbf3895b5
 ---
 

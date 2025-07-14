@@ -75,6 +75,7 @@ markup:
       attribute:
         block: true
       wrapStandAloneImageWithinParagraph: true
+
       
 outputs:
   home:
@@ -84,7 +85,7 @@ outputs:
     
 permalinks:
   posts: "/:slug"
-  
+
 copyright: "&copy; Jay Agonoy. [Terms](/privacy) &bull; [Privacy](/privacy)"
   
 caches:

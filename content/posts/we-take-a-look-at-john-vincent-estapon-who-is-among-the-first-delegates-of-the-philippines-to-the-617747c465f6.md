@@ -3,7 +3,7 @@ title: "Meet John Vincent Estapon"
 description: "...one of the first delegates of the Philippines to the World Cosplay Summit"
 date: 2013-12-02T16:00:00.000Z
 categories: [Stories]
-tags: [Deremoe]
+tags: [Deremoe, World Cosplay Summit]
 slug: /we-take-a-look-at-john-vincent-estapon-who-is-among-the-first-delegates-of-the-philippines-to-the-617747c465f6
 ---
 

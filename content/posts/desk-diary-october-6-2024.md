@@ -1,6 +1,6 @@
 ---
 title: "Desk Diary: October 6, 2024"
-date: 2024-10-06
+date: 2024-10-06T15:45:10.000Z
 categories: [Desk Diary]
 slug: /desk-diary-october-6-2024
 ---
@@ -25,8 +25,9 @@ Yung mga tropa kong photographer, nag-adjust na sa katotohanang walang photo are
 
 {{< figure
   src="/images/2024/462148778_1062218282580151_4916175038704849296_n.jpg"
-  class="ma0 w-100"
-  align=center
+  caption=""
+  alt="" attr="" 
+  align=center class="ma0 w-100"
 >}}
 
 If there are two rare cosplays I'd like to find, it's [Ai Natsumi's cosplay](https://x.com/aisthethicc/status/1842474281500016695) of VSPO! EN's Arya Kuroha and [Coffeine's cosplay](https://x.com/CoffeineCoco/status/1842418104246407439) of NEXAS' Momoko Nuihara. I did miss a unique duo cosplay of ChroNoiR, but I'm sure they had fun. Also, we got a RARE Rin Penrose cosplay! [John VTuber is real!](https://web.facebook.com/photo/?fbid=476408245380639&set=a.476412285380235)
