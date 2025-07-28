@@ -30,29 +30,36 @@ I also appreciate that Animax surprised me when it said that it will be availabl
 
 Next up is the Q4 2012 to Q1 2013 releases — _Hyouka_, _Chihayafuru_, _Accel World_, _Fullmetal Alchemist Movie: The Sacred Star of Milos_, _Hayate the Combat Butler: Heaven is a Place on Earth_, _Fafner: Dead Agressor: Heaven and Earth_. Not to mention new episodes of _Fairy Tail_ and _Bleach_. “Blargh. Stahp. Too many for my anime digestion.” **Don’t tell me you won’t say that.**
 
-Cosplayers. You won’t miss any of my Cosplayer Interviews, for goodness sakes.
+<figure class="gallery-wrapper">
+  <div class="gallery">
+    <div class="gallery-item">
+		{{<youtube 6PC3W4uHI_0>}}
+    </div>
+    <div class="gallery-item">
+		{{<youtube uM6eGU6Gxxo>}}
+    </div>
+    <div class="gallery-item">
+		{{<youtube CUUF_TjjpKE>}}
+    </div>
+  </div>
+</figure>
 
-{{<youtube 6PC3W4uHI_0>}}
-
-{{<youtube uM6eGU6Gxxo>}}
-
-{{<youtube CUUF_TjjpKE>}}
+<figure class="gallery-wrapper">
+  <div class="gallery">
+    <div class="gallery-item">
+		<img alt="" src="/images/2012/0_PoCZkYqoInVtDxOE.jpg" />
+    </div>
+    <div class="gallery-item">
+		<img alt="" src="/images/2012/0_Zr4V09R_DRXWLCP5.jpg" />
+    </div>
+  </div>
+</figure>
 
 Finally, the Ani-Mates Search. I had once this prediction that it’s a fight between either Team Orz member _Maronne Cruz_ and English-fluent _Rhianna Floresca_. Guess what, Rhianna won — and as AnimePH says, it’s “[Tears of Joy](http://www.facebook.com/photo.php?fbid=461715447218324&set=a.161488063907732.36681.161458020577403&type=1).”
 
-{{< figure
-  src="/images/2012/0_PoCZkYqoInVtDxOE.jpg"
-  alt="Facade"
-  class="ma0 w-100"
-  align=center
->}}
 
-{{< figure
-  src="/images/2012/0_Zr4V09R_DRXWLCP5.jpg"
-  alt="Facade"
-  class="ma0 w-100"
-  align=center
->}}
+
+
 
 I was not able to get an interview with Rhianna but here’s what her close friend says about:
 
