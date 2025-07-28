@@ -86,7 +86,7 @@ outputs:
 permalinks:
   posts: "/:slug"
 
-copyright: "&copy; Jay Agonoy. [Terms](/privacy) &bull; [Privacy](/privacy)"
+copyright: "&copy; Jay Agonoy. [Terms](/terms) &bull; [Privacy](/privacy)"
   
 caches:
   images:
