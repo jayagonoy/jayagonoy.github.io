@@ -3,7 +3,7 @@ title: "Nyancon at Antipolo City — 15 May, 2016"
 date: 2016-05-15
 categories: [Events]
 tags: [Photos]
-categories: /antipolo-city-15-may-2016-ea140f5c598a
+slug: /antipolo-city-15-may-2016-ea140f5c598a
 ---
 
 {{< figure
