@@ -6,7 +6,7 @@ theme: PaperMod
 params:
   homeInfoParams:
     Title: "Hello There!"
-    Content: "I'm Jay, and I've been online since 2012. I'm currently the Editor for VTuberNewsDrop.com, and have written for several websites in the past. Welcome to my website, where you can find the stuff that I've shared over the years."
+    Content: "I'm Jay, and I've been online since 2012. I write for VTuberNewsDrop.com, and have written for several websites in the past. Welcome to my space, where you can find the stuff I've shared over the years."
   socialIcons:
     - name: facebook
       url: 'https://www.facebook.com/jayagonoycom'
