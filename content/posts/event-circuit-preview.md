@@ -1,8 +1,7 @@
 ---
 title: "Events Circuit Preview"
 date: 2023-05-09
-categories: [Events]
-tags: [Podcast]
+categories: [Events, Podcast]
 slug: /event-circuit-preview
 ---
 
